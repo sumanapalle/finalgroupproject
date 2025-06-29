@@ -20,6 +20,7 @@ We will then superimpose our flood analysis with maps of Miami to understand ris
 - Patterns and projections of high tide flooding/monthly flood-day counts per station (hightide flooding): https://tidesandcurrents.noaa.gov/publications/techrpt86_PaP_of_HTFlooding.csv
 - Hurricane data (Miami, Florida is subbasin GM or CS): https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stewardship-ibtracs/v04r00/access/csv/ibtracs.ALL.list.v04r00.csv
 - Precipitation data: https://www.ncei.noaa.gov/pub/data/ghcn/daily/by_station/USW00012839.csv.gz
+- National Flood Hazard Layer Web Map Service (WMS): https://hazards.fema.gov/femaportal/kmz/Stay_Dry_v3.2.kmz
 
 ## Note:
 Sumana will be presenting over Zoom. Lina and Ashmi will be physically present.
