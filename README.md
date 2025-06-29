@@ -16,7 +16,7 @@ We will then superimpose our flood analysis with maps of Miami to understand ris
 3. Sumana Palle
 
 ## Datasets:
-- Monthly mean water height at at Virginia Key station (water level): https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?begin_date=19950601&end_date=20250629&station=8723214&product=monthly_mean&datum=STND&time_zone=lst&units=english&format=xml
+- Monthly mean water height at at Virginia Key station (water level): https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?begin_date=19950601&end_date=20250629&station=8723214&product=monthly_mean&datum=STND&time_zone=lst&units=english&format=csv
 - Patterns and projections of high tide flooding/monthly flood-day counts per station (hightide flooding): https://tidesandcurrents.noaa.gov/publications/techrpt86_PaP_of_HTFlooding.csv
 - Hurricane data (Miami, Florida is subbasin GM or CS): https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stewardship-ibtracs/v04r00/access/csv/ibtracs.ALL.list.v04r00.csv
 - Precipitation data: https://www.ncei.noaa.gov/pub/data/ghcn/daily/by_station/USW00012839.csv.gz
