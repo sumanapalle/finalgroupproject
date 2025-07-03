@@ -23,6 +23,7 @@ We will then superimpose our flood analysis with maps of Miami to understand ris
 - National Flood Hazard Layer Web Map Service (WMS): https://hazards.fema.gov/femaportal/kmz/Stay_Dry_v3.2.kmz
 
 Majority of data from Virginia Key station:
+
 <img width="661" alt="PNG image" src="https://github.com/user-attachments/assets/cfbd188b-23c8-450c-9cb7-3727bb43fe44" />
 
 ## Note:
